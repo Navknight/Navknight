@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">I am a student currently pursuing B.Tech in CSE at IIT, Tirupati</h3>
 
-- 🌱 I’m currently learning **Webdev and Machine Learning**
+- 🌱 I’m currently learning **Webdev and Parallel Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
