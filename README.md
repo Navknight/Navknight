@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">I am a student currently pursuing B.Tech in CSE at IIT, Tirupati</h3>
 
 - 🌱 I’m currently learning **Webdev and Parallel Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/n4vknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n4vknight" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navknight" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navknight" height="30" width="40" /></a>
 </p>
