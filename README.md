@@ -14,36 +14,14 @@
 - 🔭 Built multi-tenant platform services for **80+ tenants / 40,000+ concurrent users** and a Chromium-based Zero Trust Browser
 - ⚡ Wrote a sub-millisecond pattern-matching engine that **doubled throughput** of a browser security engine
 - 🛡️ Co-created [browser.security](https://browser.security), showcased at **DEF CON** and [covered by Forbes](https://forbes.ge/en/secure-web-gateways-are-dead-squarex-s-last-mile-reassembly-proves-it/)
-- 🌱 Into distributed systems, browser internals, WASM and parallel computing
-
-### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,rust,py,ts,react,wasm,kafka,redis,postgres,docker,kubernetes,gcp,firebase,linux&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,rust,py,ts,react,wasm,kafka,redis,postgres,docker,kubernetes,gcp,linux&theme=dark&perline=14" />
 </p>
 
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**ZipZap**](https://github.com/Navknight/zipzap) | In-browser zip extract/append, 80%+ less memory via additive compression | Rust · WASM |
-| [**Rituals**](https://github.com/Navknight/rituals) | Social habit tracker with a custom peer-to-peer image-sharing protocol | Dart · Firebase |
-| [**DAP**](https://github.com/navknight/mgpusim) | Dead-block aware multi-GPU prefetcher, 32% fewer cache misses | Go |
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navknight&theme=tokyonight" />
-</p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navknight&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navknight&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=navknight&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/navknight?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 <p align="center">
