@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navknight&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navknight&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=navknight&theme=tokyonight" />
+  <a href="https://leetcode.com/navknight"><img height="200" src="https://leetcard.jacoblin.cool/navknight?theme=dark&font=Fira%20Code&ext=contest" /></a>
 </p>
 
 <p align="center">
